@@ -49,7 +49,7 @@
     <div class="container">
 
       <!-- Brand -->
-      <a class="navbar-brand waves-effect" href="https://mdbootstrap.com/docs/jquery/" target="_blank">
+      <a class="navbar-brand waves-effect" href="https://joshienterprises.in" target="_blank">
         <strong class="blue-text">LOGO</strong>
       </a>
 
